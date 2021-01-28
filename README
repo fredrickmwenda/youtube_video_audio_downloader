@@ -1,0 +1,13 @@
+The Script allows a user to download audio and video from youtube via a simple Tkinter GUI application.
+All required is the youtube link, youtube-dl.exe and ffmpeg.exe
+Follow up the following instructions on how to carefully embed youtube-dl.exe and ffmpeg.exe
+
+How to use youtube-dl on Windows.
+Create folder on your PC where you put all files. For example create folder with name youtube on drive C:\.
+Download youtube-dl.exe file to C:\youtube. https://yt-dl.org/latest/youtube-dl.exe
+
+
+Follow the link https://ffmpeg.zeranoe.com/builds/win64/static/ffmpeg-4.1-win64-static.zip
+Open downloaded .zip file, find ffmpeg.exe and copy it to cd c:\youtube
+
+For global configuration add c:youtube to the path variable.  
